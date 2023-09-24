@@ -1,1 +1,2 @@
+python-django
 python-rest-framework
