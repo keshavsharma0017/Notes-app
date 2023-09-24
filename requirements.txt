@@ -1,1 +1,1 @@
-rest_framework
+python-rest-framework
